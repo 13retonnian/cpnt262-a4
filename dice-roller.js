@@ -15,14 +15,14 @@ const rollDice = function(numberOfDice, sizeOfDice) {
   }
   console.log(`You rolled a total of ${numberOfDice} ${sizeOfDice} sided dice with a total result of ${totalResult}`);
 }
-//before anything is done check if there are proper inputs
-
-if(typeof(Number(process.argv[2])) !== typeof(2)) {
-  console.log(`1Please enter two numbers in the format (node diceRoller.js [number] [number])`);  
-} else if(typeof(Number(process.argv[3])) !== typeof(2)) {
-  console.log(`2Please enter two numbers in the format (node diceRoller.js [number] [number])`);
+//before anything is done check if there are proper number inputs
+//check if the argument is not an integer. Only run if two integer numbers are there.
+if(!Number.isInteger(Number(process.argv[2]))) {
+  console.log(`Please enter two integer numbers as arguments in the format (node diceRoller.js [number] [number])`);  
+} else if(!Number.isInteger(Number(process.argv[3]))) {
+  console.log(`Please enter two integer numbers as arguments in the format (node diceRoller.js [number] [number])`);
 } else {
-  //the inputs are numbers now initialize variables and run the program
+  //the inputs are integer numbers now initialize variables and run the program
   const numberOfDice = Number(process.argv[2]);
   const sizeOfDice = Number(process.argv[3]);
   rollDice(numberOfDice, sizeOfDice);
