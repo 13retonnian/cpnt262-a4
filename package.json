@@ -2,7 +2,7 @@
   "name": "cpnt262-a4",
   "version": "1.0.0",
   "description": "Dice rolling app",
-  "main": "dice-roller.js",
+  "main": "app.js",
   "dependencies": {
     "colors": "^1.4.0"
   },
