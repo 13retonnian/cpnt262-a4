@@ -23,3 +23,4 @@ https://13retonnian.github.io/cpnt262-a4/
 #### Attributions
 Attributions to Ashlyn Knox and Tony Grimes' classes, videos and code.
 [W3 Schools isInteger](https://www.w3schools.com/jsref/jsref_isinteger.asp)
+[node api colors](https://www.npmjs.com/package/colors)
