@@ -1,0 +1,23 @@
+{
+  "name": "cpnt262-a4",
+  "version": "1.0.0",
+  "description": "Dice rolling app",
+  "main": "dice-roller.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13retonnian/cpnt262-a4.git"
+  },
+  "author": "Christopher Barber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/13retonnian/cpnt262-a4/issues"
+  },
+  "homepage": "https://github.com/13retonnian/cpnt262-a4#readme"
+}

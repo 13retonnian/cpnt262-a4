@@ -12,8 +12,9 @@ Christopher Barber
 
 #### Github Repo:
 https://github.com/13retonnian/cpnt262-a4
-#### Github Pages:
-https://13retonnian.github.io/cpnt262-a4/
+
+#### node package api used:
+- Used Colors api to turn console error messages red and other outputs to other fun colours. Used on lines 7, 16, 22, 25, 28, 30
 
 #### Problems I ran into:
 - Can't decide on an API to add
@@ -21,6 +22,6 @@ https://13retonnian.github.io/cpnt262-a4/
 - had to check if it's an integer not just a number 
 
 #### Attributions
-Attributions to Ashlyn Knox and Tony Grimes' classes, videos and code.
-[W3 Schools isInteger](https://www.w3schools.com/jsref/jsref_isinteger.asp)
-[node api colors](https://www.npmjs.com/package/colors)
+- Attributions to Ashlyn Knox and Tony Grimes' classes, videos and code.
+- [W3 Schools isInteger](https://www.w3schools.com/jsref/jsref_isinteger.asp)
+- [node api colors](https://www.npmjs.com/package/colors)
