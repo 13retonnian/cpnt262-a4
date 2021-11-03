@@ -2,7 +2,7 @@
 Please enter two integer numbers as arguments:
 - The first number will be used as the number of dice.
 - The second number will be used as the number of sides on the dice.
-- For example (node diceRolle.js 3 6) will be counted as three six sided dice or 3D6.
+- For example (node app.js 3 6) will be counted as three six sided dice or 3D6.
 
 ## SAIT Web Development
 ## CPNT 262 Assignment 4 - Node Command Line App
