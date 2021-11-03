@@ -17,6 +17,7 @@ https://13retonnian.github.io/cpnt262-a4/
 
 #### Problems I ran into:
 - Can't decide on an API to add
+- Installed yargs then couldn't figure out how to use it then tried to delete it and it still won't work like it did.
 
 #### Attributions
 Attributions to Ashlyn Knox and Tony Grimes' classes, videos and code.
